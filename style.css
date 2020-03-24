@@ -1,7 +1,8 @@
 body {
-    background: gray;
+    background: rgba(0, 255, 255, 0.726);
 }
 
 h2 {
     color: green;
+    text-transform: uppercase;
 }

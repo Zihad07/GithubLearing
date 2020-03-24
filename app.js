@@ -1,1 +1,1 @@
-alert('hello');
+document.getElementById('date').innerText = new Date().toDateString().split(' ').join('-');

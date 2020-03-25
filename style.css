@@ -1,5 +1,5 @@
 body {
-    background: rgba(0, 0, 0, 0.466);
+    background: rgba(194, 174, 174, 0.466);
 }
 
 h2 {
@@ -8,6 +8,6 @@ h2 {
 }
 
 .card {
-    background: pink;
+    background: rgb(88, 233, 148);
     color: rgb(40, 81, 218);
 }
